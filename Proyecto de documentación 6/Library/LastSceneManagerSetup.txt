@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Scenes/Documentaci\xF3n 6.unity"
+  isLoaded: 1
+  isActive: 1
